@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/kpi-card.ts": {
-      "runtime": "edge"
-    }
-  }
-}
